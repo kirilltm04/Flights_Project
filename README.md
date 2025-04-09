@@ -62,8 +62,9 @@ python app.py
 ~~~
 
 ### 5. Open in your browser
-Sample view:
-<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c9d504f6-f61f-44e2-b0bc-da8064f44e45" />
+Sample Project Result Overview:
+
+<img width="1045" alt="image" src="https://github.com/user-attachments/assets/ad3f499e-30f3-42ba-bb46-7bf87a3556f6" />
 
 ---
 
