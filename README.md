@@ -69,8 +69,32 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📁 Folder Structure
 
+flights-project/
+├── flight_analysis/
+│   └── models.py         # Data model: Flight, FlightDatabase
+├── static/
+│   └── style.css         # Custom CSS styling
+├── templates/
+│   └── index.html        # Main web interface
+├── flights.csv           # Your flight data
+├── app.py                # Flask backend
+└── README.md             # You're reading it!
 
+---
 
+## Samle Data
+
+The `flights_test.csv` file has a view like:
+
+```csv
+Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Registration,"Seat number","Seat type","Flight class","Flight reason",Note,Dep_id,Arr_id,Airline_id,Aircraft_id
+2019-10-26,TK181,Cancun / Cancun (CUN/MMUN),Istanbul / Istanbul Airport (IST/LTFM),10:10:00,06:15:00,12:05:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),,31K,1,1,1,,639,8949,769,2023
+2018-07-29,FR4513,Krakow / John Paul II International (KRK/EPKK),Tenerife-South / Reina Sofia (TFS/GCTS),13:05:00,17:15:00,05:10:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,14E,2,1,1,,1489,2897,668,231
+2018-08-15,FR4514,Tenerife-South / Reina Sofia (TFS/GCTS),Krakow / John Paul II International (KRK/EPKK),06:15:00,12:30:00,05:15:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,24A,1,1,1,,2897,1489,668,231
+2017-12-27,TK1,Istanbul / Istanbul Airport (IST/LTFM),New York / John F Kennedy (JFK/KJFK),15:05:00,18:15:00,10:10:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),,40C,3,1,1,,8949,1328,769,2023
+2017-12-29,B61261,New York / John F Kennedy (JFK/KJFK),Barbados I / Bridgetown-Grantley Adams (BGI/TBPB),08:00:00,12:35:00,04:35:00,JetBlue Airways (B6/JBU),Airbus A321-200 (A321),,9A,1,1,1,,1328,287,410,2076
+
+```
 
 ---
 
