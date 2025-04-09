@@ -18,7 +18,6 @@ Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Reg
 2017-07-06,EK656,"Dubai / Dubai International (DXB/OMDB)","Male / Male (MLE/VRMM)",02:30:00,07:40:00,04:10:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,27A,1,1,1,,768,1866,807,2023
 2017-07-16,EK657,"Male / Male (MLE/VRMM)","Dubai / Dubai International (DXB/OMDB)",09:10:00,12:10:00,04:00:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,19A,1,1,1,,1866,768,807,2023
 2024-12-17,VS132,"Barbados I / Bridgetown-Grantley Adams (BGI/TBPB)","London / Heathrow (LHR/EGLL)",19:25:00,07:35:00,07:10:00,"Virgin Atlantic (VS/VIR)","Airbus A350-1000 (A35K)",,30A,1,1,1,,287,1618,835,2137
-2024-10-14,FR2367,"Kosice / Kosice (KSC/LZKZ)","London / Stansted (STN/EGSS)",09:50:00,11:20:00,02:30:00,"Ryanair (FR/RYR)","Boeing 737-800 (B738)",,30A,1,1,1,,1498,2785,668,231
 2024-07-16,W61543,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Kerkira / Ioannis Kapodistrias (CFU/LGKR)",12:15:00,15:45:00,02:30:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",HA-LXJ,36B,2,1,1,,3142,531,859,2076
 2024-07-30,W61544,"Kerkira / Ioannis Kapodistrias (CFU/LGKR)","Warsaw / Chopin (Okecie) (WAW/EPWA)",16:20:00,17:40:00,02:20:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",,37A,1,1,1,,531,3142,859,2076
 2024-05-01,XC8162,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Antalya / Antalya (AYT/LTAI)",08:30:00,12:30:00,03:00:00,"Corendon Airlines (XC/CAI)","Boeing 737-800 (B738)",,12F,1,1,2,,3142,207,1825,231
