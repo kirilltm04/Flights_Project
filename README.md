@@ -69,6 +69,7 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📁 Folder Structure
 
+```
 flights-project/
 ├── flight_analysis/
 │   └── models.py         # Data model: Flight, FlightDatabase
@@ -79,6 +80,7 @@ flights-project/
 ├── flights.csv           # Your flight data
 ├── app.py                # Flask backend
 └── README.md             # You're reading it!
+```
 
 ---
 
