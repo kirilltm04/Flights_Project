@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flight Explorer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>✈️ Flight Explorer</h1>
+
+        <form method="post" class="button-grid">
+            {% for action in actions %}
+                <button type="submit" name="action" value="{{ action }}">{{ action.replace('_', ' ').title() }}</button>
+            {% endfor %}
+        </form>
+
+        {% if result %}
+            <h2>Results</h2>
+            <div class="results">
+                {% if result.__class__.__name__ == "list" or result.__class__.__name__ == "ItemsView" or result.__class__.__name__ == "dict_items" %}
+                    {% for item in result %}
+                        {% if item.__class__.__name__ == "Flight" %}
+                            <div class="flight-card">
+                                <div class="flight-header">
+                                    <strong>{{ item.date.strftime("%Y-%m-%d") }}</strong> |
+                                    <strong>{{ item.flight_number }}</strong> |
+                                    {{ item.airline_name }} ({{ item.airline_iata }})
+                                </div>
+                                <div class="flight-route">
+                                    {{ item.from_airport_name }} ({{ item.from_iata }}) →
+                                    {{ item.to_airport_name }} ({{ item.to_iata }})
+                                </div>
+                                <div class="flight-times">
+                                    {{ item.dep_time.strftime("%H:%M") }} → {{ item.arr_time.strftime("%H:%M") }}
+                                    | Duration: {{ item.duration_minutes }} min
+                                </div>
+                                <div class="flight-details">
+                                    Aircraft: {{ item.aircraft_name }} ({{ item.aircraft_icao }})<br>
+                                    Seat: {{ item.seat_number }} ({{ item.seat_type }}) |
+                                    Class: {{ item.flight_class }} |
+                                    Reason: {{ item.flight_reason }}
+                                    {% if item.registration %}
+                                        <br>Reg: {{ item.registration }}
+                                    {% endif %}
+                                </div>
+                            </div>
+                        {% elif item.__class__.__name__ == "tuple" %}
+                            <div class="info-item">
+                                {{ item[0] }}: {{ item[1] }}
+                            </div>
+                        {% else %}
+                            <div class="info-item">{{ item }}</div>
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <div class="info-item">{{ result }}</div>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
