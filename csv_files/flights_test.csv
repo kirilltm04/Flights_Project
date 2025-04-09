@@ -17,16 +17,8 @@ Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Reg
 2018-07-16,B2942,"St Petersburg / Pulkovo (LED/ULLI)","Minsk / Minsk International (MSQ/UMMS)",10:35:00,12:00:00,01:25:00,"Belavia (B2/BRU)","Boeing 737-500 (B735)",,13A,1,1,1,,1591,1937,147,228
 2017-07-06,EK656,"Dubai / Dubai International (DXB/OMDB)","Male / Male (MLE/VRMM)",02:30:00,07:40:00,04:10:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,27A,1,1,1,,768,1866,807,2023
 2017-07-16,EK657,"Male / Male (MLE/VRMM)","Dubai / Dubai International (DXB/OMDB)",09:10:00,12:10:00,04:00:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,19A,1,1,1,,1866,768,807,2023
-2025-02-23,QS1197,"Antalya / Antalya (AYT/LTAI)","Prague / Praha-Ruzyne (PRG/LKPR)",16:35:00,18:50:00,03:15:00,"Travel Service (QS/TVS)","Boeing 737-700 (B737)",,23A,1,1,2,,207,2398,803,230
-2025-02-23,W92603,"Prague / Praha-Ruzyne (PRG/LKPR)","London / Luton (LTN/EGGW)",22:00:00,23:05:00,02:05:00,"Wizz Air UK (W9/WUK)","Airbus A321LR (A21N)",,38C,3,1,2,,2398,1701,2637,2181
-2025-02-15,XC8140,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Antalya / Antalya (AYT/LTAI)",10:45:00,14:40:00,02:55:00,"KD Air (XC/KDC)","Boeing 737-800 (B738)",,17D,3,1,2,,3142,207,427,231
-2025-01-05,FR2315,"Bratislava / MR Stefanik (BTS/LZIB)","London / Stansted (STN/EGSS)",22:15:00,23:40:00,02:25:00,"Ryanair (FR/RYR)","Boeing 737-800 (B738)",9H-QBP,27C,3,1,1,,424,2785,668,231
 2024-12-17,VS132,"Barbados I / Bridgetown-Grantley Adams (BGI/TBPB)","London / Heathrow (LHR/EGLL)",19:25:00,07:35:00,07:10:00,"Virgin Atlantic (VS/VIR)","Airbus A350-1000 (A35K)",,30A,1,1,1,,287,1618,835,2137
-2024-12-04,W61303,"Warsaw / Chopin (Okecie) (WAW/EPWA)","London / Luton (LTN/EGGW)",12:45:00,14:25:00,02:40:00,"Wizz Air (W6/WZZ)","Airbus A321LR (A21N)",,17C,3,1,1,,3142,1701,859,2181
-2024-10-23,FR1022,"Warsaw / Modlin (WMI/EPMO)","London / Stansted (STN/EGSS)",19:50:00,21:20:00,02:30:00,"Ryanair (FR/RYR)","Boeing 737 MAX 8 (B38M)",,17A,1,1,1,,4979,2785,668,2123
 2024-10-14,FR2367,"Kosice / Kosice (KSC/LZKZ)","London / Stansted (STN/EGSS)",09:50:00,11:20:00,02:30:00,"Ryanair (FR/RYR)","Boeing 737-800 (B738)",,30A,1,1,1,,1498,2785,668,231
-2024-09-29,W61305,"Warsaw / Chopin (Okecie) (WAW/EPWA)","London / Luton (LTN/EGGW)",17:25:00,19:05:00,02:40:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",,38D,3,1,1,,3142,1701,859,2076
-2024-09-06,LO281,"Warsaw / Chopin (Okecie) (WAW/EPWA)","London / Heathrow (LHR/EGLL)",07:25:00,09:20:00,02:55:00,"LOT (LO/LOT)","Boeing 737 MAX 8 (B38M)",,2A,1,2,1,,3142,1618,483,2123
 2024-07-16,W61543,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Kerkira / Ioannis Kapodistrias (CFU/LGKR)",12:15:00,15:45:00,02:30:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",HA-LXJ,36B,2,1,1,,3142,531,859,2076
 2024-07-30,W61544,"Kerkira / Ioannis Kapodistrias (CFU/LGKR)","Warsaw / Chopin (Okecie) (WAW/EPWA)",16:20:00,17:40:00,02:20:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",,37A,1,1,1,,531,3142,859,2076
 2024-05-01,XC8162,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Antalya / Antalya (AYT/LTAI)",08:30:00,12:30:00,03:00:00,"Corendon Airlines (XC/CAI)","Boeing 737-800 (B738)",,12F,1,1,2,,3142,207,1825,231
@@ -37,14 +29,11 @@ Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Reg
 2024-02-20,EK705,"Dubai / Dubai International (DXB/OMDB)","Mahe / Seychelles (SEZ/FSIA)",02:15:00,06:50:00,04:35:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,40K,1,1,1,,768,2634,807,2023
 2024-02-29,EK708,"Mahe / Seychelles (SEZ/FSIA)","Dubai / Dubai International (DXB/OMDB)",23:50:00,04:20:00,04:30:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,33A,1,1,1,,2634,768,807,2023
 2024-03-02,EK179,"Dubai / Dubai International (DXB/OMDB)","Warsaw / Chopin (Okecie) (WAW/EPWA)",08:10:00,12:15:00,06:05:00,"Emirates (EK/UAE)","Boeing 777-300ER (B77W)",,48E,2,1,1,,768,3142,807,2023
-2023-11-07,XQ420,"Antalya / Antalya (AYT/LTAI)","Warsaw / Chopin (Okecie) (WAW/EPWA)",15:45:00,17:45:00,03:00:00,"SunExpress (XQ/SXS)","Boeing 737-800 (B738)",,30F,1,1,2,,207,3142,746,231
 2023-10-31,TK2429,"Antalya / Antalya (AYT/LTAI)","Istanbul / Istanbul Airport (IST/LTFM)",04:40:00,06:10:00,01:30:00,"Turkish Airlines (TK/THY)","Airbus A321-200 (A321)",,13C,3,1,2,,207,8949,769,2076
 2023-10-02,XQ198,"Antalya / Antalya (AYT/LTAI)","Vienna / Schwechat (VIE/LOWW)",07:20:00,09:15:00,02:55:00,"SunExpress (XQ/SXS)","Boeing 737-800 (B738)",,22C,3,1,2,,207,3179,746,231
 2023-07-18,W61543,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Kerkira / Ioannis Kapodistrias (CFU/LGKR)",12:35:00,16:00:00,02:25:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",,38B,2,1,1,,3142,531,859,2076
 2023-08-01,W61544,"Kerkira / Ioannis Kapodistrias (CFU/LGKR)","Warsaw / Chopin (Okecie) (WAW/EPWA)",16:35:00,17:50:00,02:15:00,"Wizz Air (W6/WZZ)","Airbus A321-200 (A321)",,36E,2,1,1,,531,3142,859,2076
 2023-04-11,PC5008,"Berlin / Brandenburg (BER/EDDB)","Antalya / Antalya (AYT/LTAI)",19:00:00,23:20:00,03:20:00,"Pegasus Airlines (PC/PGT)","Airbus A320-200 (A320)",,23A,1,1,2,,4895,207,1014,2059
-2023-04-22,PC5007,"Antalya / Antalya (AYT/LTAI)","Berlin / Brandenburg (BER/EDDB)",15:25:00,17:55:00,03:30:00,"Pegasus Airlines (PC/PGT)","Airbus A320-200 (A320)",,29D,3,1,2,,207,4895,1014,2059
-2022-12-03,XQ421,"Warsaw / Chopin (Okecie) (WAW/EPWA)","Antalya / Antalya (AYT/LTAI)",18:40:00,22:40:00,03:00:00,"SunExpress (XQ/SXS)","Boeing 737-800 (B738)",,30F,1,1,2,,3142,207,746,231
 2022-12-10,FH1285,"Antalya / Antalya (AYT/LTAI)","Berlin / Brandenburg (BER/EDDB)",09:20:00,10:40:00,03:20:00,"Freebird Airlines (FH/FHY)","Airbus A320-200 (A320)",,29E,2,1,2,,207,4895,1095,2059
 2022-05-19,PC5008,"Berlin / Brandenburg (BER/EDDB)","Antalya / Antalya (AYT/LTAI)",14:00:00,19:15:00,03:15:00,"Pegasus Airlines (PC/PGT)","Airbus A320-200 (A320)",,20B,2,1,2,,4895,207,1014,2059
 2022-08-07,XC7371,"Antalya / Antalya (AYT/LTAI)","Berlin / Brandenburg (BER/EDDB)",15:15:00,17:45:00,03:30:00,"Corendon Airlines (7H/CAI)","Boeing 737-800 (B738)",,30E,2,1,2,,207,4895,1232,231
