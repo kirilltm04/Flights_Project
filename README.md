@@ -62,6 +62,7 @@ python app.py
 ~~~
 
 ### 5. Open in your browser
+
 Sample Project Result Overview:
 
 <img width="1045" alt="image" src="https://github.com/user-attachments/assets/ad3f499e-30f3-42ba-bb46-7bf87a3556f6" />
@@ -165,4 +166,4 @@ This project is licensed under the GNU General Public License v3.0. You are free
 Pull requests and suggestions are welcome! If you'd like to add more features—like charts, export tools, or maps—feel free to fork the project or open an issue.
 
 ## 💬 Questions?  
-Feel free to reach out or open an issue on GitHub if you need help setting things up or extending the functionality. Made with ❤️ for flight enthusiasts.
+Feel free to reach out or open an issue on GitHub if you need help setting things up or extending the functionality.
