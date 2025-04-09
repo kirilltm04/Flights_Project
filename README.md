@@ -62,8 +62,8 @@ python app.py
 ~~~
 
 ### 5. Open in your browser
-
-Visit [http://127.0.0.1:5000](http://127.0.0.1:5000)
+Sample view:
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c9d504f6-f61f-44e2-b0bc-da8064f44e45" />
 
 ---
 
